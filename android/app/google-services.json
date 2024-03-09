@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "522611232044",
+    "firebase_url": "https://crud-realtime-db-11953-default-rtdb.firebaseio.com",
+    "project_id": "crud-realtime-db-11953",
+    "storage_bucket": "crud-realtime-db-11953.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522611232044:android:cd81f131b16e246713f089",
+        "android_client_info": {
+          "package_name": "com.example.crud_realtime_db"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATJIOq7_CzwF3mIemSRc6W9JT4sS_TmFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
